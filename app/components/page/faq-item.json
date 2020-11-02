@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_faq_items",
+  "info": {
+    "name": "faqItem",
+    "icon": "ankh",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string",
+      "required": true
+    },
+    "answer": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
